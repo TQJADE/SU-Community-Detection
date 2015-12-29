@@ -7,7 +7,7 @@ The necessary toolkit and packages required in our implementation are listed as 
 * Python 2.7.x
 * Networkx 1.9.19 (Do not use the latest version.)
 * python-louvain
-* Matplotlib
+* Matplotlib.
 
 Use can firstly install python and using python pip toolkit to install the remain toolkits. Please do not use python 3.3 or above version, and do not install networkx version other than 1.9.19. Please be aware that the Networkx 1.10.x have some bugs remain unsolved.
 
